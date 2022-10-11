@@ -8,7 +8,6 @@ from adafruit_hid.keycode import Keycode
 from adafruit_hid.consumer_control import ConsumerControl
 from adafruit_hid.consumer_control_code import ConsumerControlCode
 
-print("---Pico Pad Keyboard---")
 
 led = DigitalInOut(board.LED)
 led.direction = Direction.OUTPUT
