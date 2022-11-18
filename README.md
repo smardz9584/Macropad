@@ -1,5 +1,5 @@
 # Macropad
-the code for a macropad I've made with raspberry pi pico 
+Code for a macropad I've made with raspberry pi pico 
 
 To use the code that is written in CircuitPython, first you have to flash CircuitPython .UF2 file onto the pico itself. Then you have to install Adafruit-HID libraries onto the system.
 I will include the .UF2 files in the repository.
