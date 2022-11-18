@@ -17,16 +17,16 @@ kbd = Keyboard(usb_hid.devices)
 cc = ConsumerControl(usb_hid.devices)
 
 pins = [
-    board.GP0,  # przycisk 3
-    board.GP2,  # przycisk 2
-    board.GP4,  # przycisk 1
-    board.GP6,  # przycisk 6
-    board.GP8,  # przycisk 5
-    board.GP10,  # przycisk 4
-    board.GP12,  # przycisk 9
-    board.GP14,  # przycisk 8
-    board.GP16,  # przycisk 7
-    board.GP19,  # przycisk 0
+    board.GP0,  #  button 3
+    board.GP2,  #  button 2
+    board.GP4,  #  button 1
+    board.GP6,  #  button 6
+    board.GP8,  #  button 5
+    board.GP10,  # button 4
+    board.GP12,  # button 9
+    board.GP14,  # button 8
+    board.GP16,  # button 7
+    board.GP19,  # button 0
 
 ]
 
